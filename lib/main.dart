@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false, // show debug checked mode banner flag
       title: 'Ticket App',
       theme: ThemeData(colorScheme: .fromSeed(seedColor: Colors.deepPurple)),
-      home: const MyHomePage(title: 'Some Title'),
+      home: const MyHomePage(title: 'Ticket App'),
     );
   }
 }
